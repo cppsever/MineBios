@@ -18,3 +18,17 @@ Download Link: https://sourceforge.net/projects/minebios/
 > ✅ Supported Virtual-Box and Qemu
 
 I haven't tried with real hardware but you can try with ventoy
+
+## Compiling
+
+Normal:
+
+```
+make
+```
+
+Iso compiling:
+
+```
+make iso
+```
