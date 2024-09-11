@@ -1,2 +1,2 @@
 # MineBios
-Dowload Link: https://sourceforge.net/projects/minebios/
+Download Link: https://sourceforge.net/projects/minebios/
