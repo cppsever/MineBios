@@ -70,3 +70,5 @@ start_camera:
 
 
 > Map Editor : https://www.drawtoarray.free.nf/index2.html
+
+When drawing, make x=450 y=100. Replace the code with `chunk`
