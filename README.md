@@ -73,6 +73,8 @@ start_camera:
 
 When drawing, make x=450 y=100. Replace the code with `chunk`
 
+## And...
+
 ```diff
 - This is the first and last version of the project. There will be no further updates. :(
 ```
