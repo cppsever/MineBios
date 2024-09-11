@@ -78,3 +78,9 @@ When drawing, make x=450 y=100. Replace the code with `chunk`
 ```diff
 - This is the first and last version of the project. There will be no further updates. :(
 ```
+
+## Thanks For Character Texture
+
+[FesliPikachu](https://github.com/FesliPikachu)
+
+![png](https://github.com/cppsever/MineBios/blob/main/photo/3.png)
