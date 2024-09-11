@@ -32,3 +32,9 @@ Iso compiling:
 ```
 make iso
 ```
+
+But you need:
+
+```
+sudo pacman -S qemu qemu-full cdrtools make nasm
+```
