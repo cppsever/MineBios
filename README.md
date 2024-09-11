@@ -5,12 +5,16 @@ Download Link: https://sourceforge.net/projects/minebios/
 ![png](https://github.com/cppsever/MineBios/blob/main/photo/2.png)
 
 ## Features
-> 100% Assembly
+> ✅ 100% Assembly
 > 
-> Movement
+> ✅ Movement
 > 
-> Basic physics
+> ✅ Basic physics
 > 
-> Interaction
+> ✅ Interaction
 > 
-> Only supported bios x32 pc or vm
+> ~ Only supported bios x32 pc or vm
+>
+> ✅ Supported Virtual-Box and Qemu
+
+I haven't tried with real hardware but you can try with ventoy
