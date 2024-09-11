@@ -6,7 +6,11 @@ Download Link: https://sourceforge.net/projects/minebios/
 
 ## Features
 > 100% Assembly
+> 
 > Movement
+> 
 > Basic physics
+> 
 > Interaction
+> 
 > Only supported bios x32 pc or vm
