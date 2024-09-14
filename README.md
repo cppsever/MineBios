@@ -1,6 +1,14 @@
 # MineBios
 Download Link: https://sourceforge.net/projects/minebios/
 
+You can try:
+
+Virtual-box or Qemu:
+
+```
+qemu-system-x86_64 -boot d -cdrom MineBios.iso -m 512
+```
+
 ![png](https://github.com/cppsever/MineBios/blob/main/photo/1.png)
 ![png](https://github.com/cppsever/MineBios/blob/main/photo/2.png)
 
