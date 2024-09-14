@@ -1,5 +1,7 @@
 # MineBios
-Download Link: https://sourceforge.net/projects/minebios/
+Download Link: 
+
+[![Download MineBios](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/minebios/files/latest/download)
 
 You can try:
 
