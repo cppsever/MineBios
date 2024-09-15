@@ -6,16 +6,16 @@ Download Link:
 Or Floppy Disk (1.44 mb):
 https://github.com/cppsever/MineBios/raw/main/MineBios.img
 
-You can try:
+![png](https://github.com/cppsever/MineBios/blob/main/photo/1.png)
+![png](https://github.com/cppsever/MineBios/blob/main/photo/2.png)
+
+And You can try:
 
 Virtual-box or Qemu:
 
 ```
 qemu-system-x86_64 -boot d -cdrom MineBios.iso -m 512
 ```
-
-![png](https://github.com/cppsever/MineBios/blob/main/photo/1.png)
-![png](https://github.com/cppsever/MineBios/blob/main/photo/2.png)
 
 ## Features
 > ✅ 100% Assembly
