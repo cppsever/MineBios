@@ -29,7 +29,7 @@ qemu-system-x86_64 -boot d -cdrom MineBios.iso -m 512
 >
 > ✅ VGA renderer 
 
-I couldn't try it but someone managed to run it in grub2 mode on Ventoy .d
+I couldn't try it on real hardwares but someone managed to run it in grub2 mode on Ventoy .d
 
 ## Compiling
 
