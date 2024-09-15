@@ -23,13 +23,13 @@ qemu-system-x86_64 -boot d -cdrom MineBios.iso -m 512
 > 
 > ✅ Interaction
 > 
-> ~ Only supported bios x32 pc or vm
+> ~ Only supported bios pc or vm
 >
 > ✅ Supported Virtual-Box and Qemu
 >
 > ✅ VGA renderer 
 
-I haven't tried with real hardware but you can try with ventoy
+I haven't tried with real hardware but you can try with ventoy grub2 boot
 
 ## Compiling
 
