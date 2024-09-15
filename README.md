@@ -100,6 +100,6 @@ When drawing, make x=450 y=100. Replace the code with `chunk`
 
 ## Thanks For Character Texture
 
-[FesliPikachu](https://github.com/FesliPikachu)
+[SadikKidas](https://github.com/SadikKidas)
 
 ![png](https://github.com/cppsever/MineBios/blob/main/photo/3.png)
