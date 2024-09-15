@@ -86,6 +86,10 @@ start_camera:
 
 When drawing, make x=450 y=100. Replace the code with `chunk`
 
+## BTW
+
++ Actually the game itself (including texture and world) is 0.06 mb, but due to the Fat 12 file system it is at least 1.44 mb
+
 ## And...
 
 ```diff
