@@ -3,6 +3,10 @@ Download Link:
 
 [![Download MineBios](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/minebios/files/latest/download)
 
+Or Floppy Disk (1.44 mb):
+
+[.İMG DOWLOAD](https://github.com/cppsever/MineBios/raw/main/MineBios.img)
+
 You can try:
 
 Virtual-box or Qemu:
