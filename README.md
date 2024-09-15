@@ -1,5 +1,5 @@
 # MineBios
-Download Link: 
+Download Link (1.89 mb iso): 
 
 [![Download MineBios](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/minebios/files/latest/download)
 
