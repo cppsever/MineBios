@@ -28,7 +28,7 @@ qemu-system-x86_64 -boot d -cdrom MineBios.iso -m 512
 > 
 > ~ Only supported bios pc or vm
 >
-> ✅ Supported Virtual-Box and Qemu
+> ✅ Supported Qemu and Virtual-Box (May not support in the newest versions) 
 >
 > ✅ VGA renderer 
 
