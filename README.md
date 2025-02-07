@@ -56,7 +56,7 @@ sudo pacman -S qemu qemu-full cdrtools make nasm
 
 You can modify the game with these editors:
 
-> Image Editor : https://www.drawtoarray.free.nf/index1.html
+> Image Editor : (Web site domain expired)
 
 In this image editor, add the code of your x=40 y=40 work to the bottom line. And adapt it to the function on line 285.
 
@@ -80,7 +80,7 @@ start_camera:
 ```
 
 
-> Map Editor : https://www.drawtoarray.free.nf/index2.html
+> Map Editor : (Web site domain expired)
 
 When drawing, make x=450 y=100. Replace the code with `chunk`
 
