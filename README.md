@@ -32,7 +32,7 @@ qemu-system-x86_64 -boot d -cdrom MineBios.iso -m 512
 >
 > ✅ VGA renderer 
 
-I couldn't try it on real hardwares but someone managed to run it in grub2 mode on Ventoy .d
+If you want to boot to your usb, boot the [MineBios.img](https://github.com/cppsever/MineBios/raw/main/MineBios.img) to your usb using [UNetbootin](https://unetbootin.github.io/).  (Bios or uefi-csm must be on)
 
 ## Compiling
 
